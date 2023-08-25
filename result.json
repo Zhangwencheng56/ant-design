@@ -7,7 +7,7 @@
       "orderNum": 44,
       "preCount": 845,
       "pracCount": 845,
-      "batchTime": "",
+      "batchTime": ""
     },
     {
       "batchID": "223",
@@ -16,10 +16,10 @@
       "orderNum": 52,
       "preCount": 340,
       "pracCount": 340,
-      "batchTime": "",
-    },
+      "batchTime": ""
+    }
   ],
   "page": 1,
   "success": true,
-  "total": 2,
+  "total": 2
 }
