@@ -55,7 +55,9 @@
       "cardNumber": "098769",
       "phoneNum": "12374748383",
       "phone": "447-654-9610",
-    },],
-"page": 1,
+    }
+  ],
+  "page": 1,
   "success": true,
-  "total": 3}
+  "total": 3
+}
