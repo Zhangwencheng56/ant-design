@@ -12,7 +12,7 @@
       "activePerName": "12374748383",
       "cardNumber": "123456",
       "phoneNum": "12374748383",
-      "phone": "123-456-7890",
+      "phone": "123-456-7890"
     },
     {
       "cardNo": "card2",
@@ -26,7 +26,7 @@
       "activePerName": "19383737474",
       "cardNumber": "345678",
       "phoneNum": "12374748383",
-      "phone": "347-908-3210",
+      "phone": "347-908-3210"
     },
     {
       "cardNo": "card3",
@@ -40,7 +40,7 @@
       "activePerName": "18730487737",
       "cardNumber": "231234",
       "phoneNum": "12374748383",
-      "phone": "987-263-1210",
+      "phone": "987-263-1210"
     },
     {
       "cardNo": "card4",
@@ -54,7 +54,7 @@
       "activePerName": "19873848484",
       "cardNumber": "098769",
       "phoneNum": "12374748383",
-      "phone": "447-654-9610",
+      "phone": "447-654-9610"
     }
   ],
   "page": 1,
