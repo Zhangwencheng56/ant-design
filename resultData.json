@@ -36,7 +36,7 @@
       "cardName": "银卡1号",
       "IDType": "身份证",
       "name": "wen",
-      //   IDNnumber: "222222",
+      "IDNnumber": "222222",
       "activePerName": "18730487737",
       "cardNumber": "231234",
       "phoneNum": "12374748383",
